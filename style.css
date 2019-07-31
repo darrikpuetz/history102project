@@ -51,12 +51,16 @@ main{
 #hero{
     width: 100%;
     border-radius: 10px;
+    height: 450;
+    width: 960;
 }
 
 main li{
     float: left;
     margin-right: 30px;
     margin-top: 30px;
+    height: 150;
+    width: 300;
 }
 
 main li:last-child{
