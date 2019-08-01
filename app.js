@@ -1,5 +1,7 @@
 var ageNow = prompt('How old are you?');
+var backColor = prompt('Type a color.');
 var greeting;
+document.body.style.backgroundColor = backColor;
 
 if (ageNow > 50) {
     greeting = 'Still Learning' document.write ('<p>' + greeting + '</p>');;
